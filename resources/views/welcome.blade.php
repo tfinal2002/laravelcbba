@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Cordoba
+                    Laravel Córdoba
                 </div>
 
                 <div class="links">
